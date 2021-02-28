@@ -1,0 +1,28 @@
+.player{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    
+    
+}
+.player img{
+    margin: 5px;
+    width: 100%;
+    margin-right: 10px;
+    padding: 10px;
+}
+.player-name{
+    /* color: rgb(218, 32, 125); */
+    margin-top: 50px;
+}
+.player-button{
+    background-color: greenyellow;
+    border:1px solid grey;
+    width:130px;
+    height: 35px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+.player :hover{
+    background-color: aquamarine;
+}

@@ -1,0 +1,22 @@
+.header img{
+    width:250px;
+}
+.header nav{
+    background-color: blueviolet;
+    line-height: 40px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    font-style: italic;
+    margin-right:20px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: blue;
+}
+.title{
+    text-align: center;
+}
