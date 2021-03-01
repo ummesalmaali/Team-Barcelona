@@ -1,10 +1,8 @@
 .team-container{
     display: flex;
+    flex-wrap: nowrap;
 }
-/* .destructure{
-    display: flex;
-    grid-template-columns: repeat(4);
-} */
+
 .player-container{
     width:70%;
     margin-left: 20px;
