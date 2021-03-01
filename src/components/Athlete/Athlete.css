@@ -15,14 +15,11 @@
     margin-top: 50px;
 }
 .player-button{
-    background-color: greenyellow;
+    background-color: darkslateblue;
     border:1px solid grey;
     width:130px;
     height: 35px;
     border-radius: 5px;
-    color: black;
+    color: white;
     font-weight: bold;
-}
-.player :hover{
-    background-color: aquamarine;
 }

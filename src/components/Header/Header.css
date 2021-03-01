@@ -15,8 +15,9 @@ nav a{
     padding: 5px;
 }
 nav a:hover{
-    background-color: blue;
+    background-color: grey;
 }
 .title{
     text-align: center;
+    color:royalblue;
 }

@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lionel Messi",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVAoxoXjpkOL9gTLYu0X-dd59qy65y6-2mg&usqp=CAU",
-    "status": "Defender",
+    "status": "Forward",
     "salary": 250000,
     "email": "messi77@gmail.com",
     "address": {
@@ -29,7 +29,7 @@
     "name": "Antoine Griezmann",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD56qtkMwmHHuKGLpCC8CdgVQvWBdlHWCYzQ&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 200000,
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "address": {
@@ -54,8 +54,8 @@
     "id": 3,
     "name": "Ansu Fati",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl76lsxnpYFtFPfRnZCzxLjB0grRYVM4glNA&usqp=CAU",
-    "status": "Defender",
-    "salary": 250000,
+    "status": "Forward",
+    "salary": 150000,
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "address": {
@@ -80,8 +80,8 @@
     "id": 4,
     "name": "Ousmene Dembele",
     "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ousmane_Demb%C3%A9l%C3%A9_2018.jpg/220px-Ousmane_Demb%C3%A9l%C3%A9_2018.jpg",
-    "status": "Defender",
-    "salary": 250000,
+    "status": "Forward",
+    "salary": 220000,
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "address": {
@@ -107,7 +107,7 @@
     "name": "Phillippe Coutinho",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8jEogv-Zm3BdkIqRls8QSPOsgohVRKFeCA&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 120000,
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
@@ -132,8 +132,8 @@
     "id": 6,
     "name": "Pedri",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZVVxgB8hTcPyQn1U3WBjEh21aWVwqy_SlrQ&usqp=CAU",
-    "status": "Defender",
-    "salary": 250000,
+    "status": "MidFielder",
+    "salary": 155000,
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
     "address": {
@@ -159,7 +159,7 @@
     "name": "Ronald Araujo",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxEuAjvBc1bAgUVxsl-yg1cxX1aXJqhdGog&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 222000,
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
@@ -185,7 +185,7 @@
     "name": "Riqui Puig",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4Wr9yDCRF_zLwveTOcRNSgk7u13XNG_WyQ&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 170000,
     "email": "Sherwood@rosamond.me",
     "address": {
     "street": "Ellsworth Summit",
@@ -210,7 +210,7 @@
     "name": "Oscar Mingueza",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mafT5Gw1UHHfvBVCz8MdxJuu1vU5dkXreg&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 190000,
     "username": "Delphine",
     "email": "Chaim_McDermott@dana.io",
     "address": {
@@ -236,7 +236,7 @@
     "name": "Sergino Dest",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaK1MBNLl4PEqE3IifHDwFkqRhdfxSnNHJpA&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 240000,
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
     "address": {
@@ -262,7 +262,7 @@
     "name": "Francisco trincão",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56MUscBE7IrWCwhXkh53whi81NFO_Cqtxug&usqp=CAU",
     "status": "Defender",
-    "salary": 250000,
+    "salary": 180000,
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
     "address": {
